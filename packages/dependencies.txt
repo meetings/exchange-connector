@@ -1,0 +1,1 @@
+Microsoft.Exchange.WebServices.2.2,Newtonsoft.Json.9.0.1
